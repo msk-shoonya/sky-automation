@@ -1,0 +1,3 @@
+# Cypress tests dependencies and output
+node_modules
+results

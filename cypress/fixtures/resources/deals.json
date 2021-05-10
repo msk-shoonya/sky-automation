@@ -1,0 +1,24 @@
+{
+  "tv": [
+    {
+      "name": "Sofa So Good",
+      "price": "£27"
+    },
+    {
+      "name": "Spring Into Action",
+      "price": "£41"
+    },
+    {
+      "name": "Sky TV & Cinema",
+      "price": "£37"
+    },
+    {
+      "name": "Sky Sports & BT Sport",
+      "price": "£58"
+    },
+    {
+      "name": "Build your own package",
+      "price": "£27"
+    }
+  ]
+}
